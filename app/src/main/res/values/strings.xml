@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CureAlzheimers</string>
+
+    <string name="dummy_button">Blinking 40HZ</string>
+    <string name="dummy_content">BLINKING\n40HZ</string>
+</resources>
